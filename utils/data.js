@@ -26,7 +26,8 @@ export const modeOfContact = {
 };
 
 export const prompts = {
-  "Prompt 1": "Welcome to Winners Chapel International, what is your name",
+  "Prompt 1":
+    "Welcome to Winners Chapel International Bristol, what is your name",
   "Prompt 2":
     "Please provide your gender. Reply 1 for Male, 2 for Female and 3 for others not specified",
   "Prompt 3": "Please provide your address",
